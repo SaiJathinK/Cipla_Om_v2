@@ -1,0 +1,62 @@
+1. Hi Myself (Recruiter Name). I'm from Cognizant. am I speaking with Mr.sai jathin?
+Ans: Yes, Please Tell Me.
+
+2. Are you Looking for a Job or Job Change?
+Ans: Yes, I'm Looking for a job change.
+
+3. Which company are you working for?
+Ans: I'm working for the HCL.
+
+4. Are you a permanent employee for the TCS?
+Ans: Yes,( TCS is my Client, I'm working for another payroll company.)
+
+5. What is the name Payroll Company(or Third Party)?
+Ans: My Payroll company is SCANFII SOFTWARE TECHNOLOGIES.
+
+6. Are you a permanent employee for XYZ?
+No, I was a contract employee for SCANFII SOFTWARE TECHNOLOGIES.
+
+7. May I know how many years of experience do you have?
+Ans: I Have an overall 5.2 Years of experience in front-end web development, and I'm having 4.5 years of relevant experience in ReactJS.
+
+8. Are you currently working?
+Ans: I'm serving in the notice period.
+
+9. What is the last working day?
+Ans: This month 23rd AUG is my last working day.
+
+10. We have openings on ReactJS, are you interested?
+Ans: Yes, I'm interested in this position. Kindly please process my profile for the same.
+
+11. when Are you available for the technical round interview?
+Ans: I will be available tomorrow from 3pm -4pm(*mention your availability slot ).
+
+12. What is your current salary?
+Ans: Currently I'm getting 3.7 LPA.
+
+13. how much is your salary expectation?
+Ans: I'm excepting 9.5LPA.
+
+14. is that negotiable?
+Ans: Yes, it is, in between 9 to 9.5LPA
+
+15. Will you be interested to relocate to Banglore?
+Ans: yes, I am located in Bangalore.
+
+17. When are you going to join or are you an immediate joiner?
+Ans: I will join immediately if I get the chance.
+
+18. Do you have any offers in hand?
+Ans: Yes, I have an offer with 8.5LPA, that is in pipeline, salary discussion is done with HR, they are going to release the offer letter.
+19. Why you are looking for a job change?
+Ans: Actually I'm working on a very less salary basis with my exp, my peers with same exp are getting 11-15LPA,Carrier growth.
+
+Java script, Reactjs , HTML, CSS working on them form 4.5Y
+MySQL working nearly 4Y
+
+
+
+
+
+
+
